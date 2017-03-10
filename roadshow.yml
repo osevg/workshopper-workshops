@@ -17,7 +17,7 @@ vars:
   USER_SUFFIX: "-XX"
   OPENSHIFT_NAME: "OpenShift Container Platform"
   OPENSHIFT_SHORTNAME: "OCP"
-  OPENSHIFT_VERSION: "3.3"
+  OPENSHIFT_VERSION: "3.4"
   GITLAB_USER: "userxx"
   GITLAB_PASSWORD: "openshift3"
   GITLAB_URL_PREFIX: "gitlab-ce-workshop-infra"
